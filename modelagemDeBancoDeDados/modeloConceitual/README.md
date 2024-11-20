@@ -2,6 +2,8 @@
 
 utilizado para axuliar no desenvolvimento do modelo lógico do banco nosso modelo conceitual apresenta as seguintes entiadades 
 
+## As tabelas que fazem parte do modelo conceitual são:
+
 | coluna | nome da tabela|
 |--------|----------------|
 |1|produtos| 
@@ -19,6 +21,6 @@ utilizado para axuliar no desenvolvimento do modelo lógico do banco nosso model
 |13|cargo| 
 |14|compras|
 
-## Imagem do modelo conceitual:
+### Imagem do modelo conceitual:
 
-[[/img/modeloConceitual.png]]
+<img src="../img/modeloConceitual.png">
