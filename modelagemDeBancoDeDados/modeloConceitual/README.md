@@ -1,25 +1,25 @@
 # Modelo conceitual
 
-utilizado para axuliar no desenvolvimento do modelo lógico do banco nosso modelo conceitual apresenta as seguintes entiadades 
+utilizado para axuliar no desenvolvimento do modelo lógico do banco nosso modelo conceitual apresenta as seguintes entidades.
 
-## As tabelas que fazem parte do modelo conceitual são:
+## As entidades que fazem parte do modelo conceitual são:
 
-| coluna | nome da tabela|
+| coluna | nome das entidades|
 |--------|----------------|
-|1|produtos| 
-|2|clientes| 
-|3|fornecedor| 
-|4|setor| 
-|5|empresa| 
-|6|endereço| 
-|7|serviços| 
-|8|feedback| 
-|9|pessoas| 
-|10|funcionários | 
-|11|equipe responsável| 
-|12|equipe funcionários| 
-|13|cargo| 
-|14|compras|
+|1|Produtos| 
+|2|Clientes| 
+|3|Fornecedores| 
+|4|Setores| 
+|5|Empresas| 
+|6|Endereços| 
+|7|Serviços| 
+|8|Feedback's| 
+|9|Pessoas| 
+|10|Funcionários | 
+|11|Equipe responsáveis| 
+|12|Equipe funcionários| 
+|13|Cargos| 
+|14|Compras|
 
 ### Imagem do modelo conceitual:
 

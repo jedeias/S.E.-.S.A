@@ -8,6 +8,6 @@ Em termos de SGBD optamos pelo mais convencional e que tínhamos uma familiarida
 
 ### Código do banco de dados:
 
-O código esta disponivel no arquivo:
+O código esta disponível no arquivo:
 
 [Código Do banco de dados](modeloFisico.sql)
