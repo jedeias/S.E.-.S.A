@@ -23,4 +23,4 @@ utilizado para axuliar no desenvolvimento do modelo lógico do banco nosso model
 
 ### Imagem do modelo conceitual:
 
-<img src="../img/modeloConceitual.png">
+<img src="../img/modeloConceitual.jpg">
