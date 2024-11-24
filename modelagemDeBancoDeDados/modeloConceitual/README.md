@@ -1,6 +1,6 @@
 # Modelo conceitual
 
-utilizado para axuliar no desenvolvimento do modelo lógico do banco nosso modelo conceitual apresenta as seguintes entidades.
+utilizado para auxiliar no desenvolvimento do modelo lógico do banco nosso modelo conceitual apresenta as seguintes entidades.
 
 ## As entidades que fazem parte do modelo conceitual são:
 
