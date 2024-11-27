@@ -17,8 +17,8 @@ O projeto consiste na criação de uma empresa fictícia e na implementação do
  
  ### Matérias e aprofundamentos:
 
-* ["Aprendizado de máquinas"](aprendizadoDeMaquina/README.md)
-* ["Ciência de dados"](cienciaDeDados/README.md)
-* ["Modelagem de banco de dados"](modelagemDeBancoDeDados/README.md)
-* ["Redes de computadores"](redesDeComputadores/README.md)
-* ["Segurança da informática"](segurancaDaInformacao/README.md)
+* [Aprendizado de máquinas](aprendizadoDeMaquina/README.md)
+* [Ciência de dados](cienciaDeDados/README.md)
+* [Modelagem de banco de dados](modelagemDeBancoDeDados/README.md)
+* [Redes de computadores](redesDeComputadores/README.md)
+* [Segurança da informática](segurancaDaInformacao/README.md)
