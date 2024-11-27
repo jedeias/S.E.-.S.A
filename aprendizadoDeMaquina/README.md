@@ -21,3 +21,4 @@ matplotlib é o conjunto dos nomes (math, plot, library) "matemática, gráficos
 
 1. [Linear Regession](code/MetricLinearRegression.py)
 2. [KNN (k-nearest neighbors)](code/KnnClassifier.py)
+ 
