@@ -8,7 +8,7 @@ A máteria de Segurança da informação, foi composta principalmente pelos tóp
 
 # Cofira mais delhadamente nos links a seguir:
 
-1. [Políticas da empresas](matrizGUT/README.md)
-2. [matriz G.U.T.](politicasDaEmpresa/README.md)
+1. [Políticas da empresas](politicasDaEmpresa/README.md)
+2. [matriz G.U.T.](matrizGUT/README.md)
 3. [Políticas de uso e acesso a rede ou arquivos da empresa](PoliticasdeAcessosARedeEArquivos/README.md)
 
