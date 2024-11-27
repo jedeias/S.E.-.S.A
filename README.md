@@ -3,11 +3,11 @@
 ## Informações do projeto:
 O projeto consiste na criação de uma empresa fictícia e na implementação dos elementos de técnologia estudados no periodo da execução do projeto. 
 
-# Nome da emprea:
+## Nome da emprea:
 "Se&Sa" Software engineering and software Analysis.
 
 ## Ramo de atuação:
-Técnologia e softwares.
+Consultoria e softwares.
 
 ## Serviços prestados:
 A Se&Sa é um empresa que atua em criações de softwares e prestando serviços de consultoria. 
